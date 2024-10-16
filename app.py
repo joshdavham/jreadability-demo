@@ -90,7 +90,7 @@ st.markdown(
                 + 11.724
     ```
 
-    *\* "kango" (漢語) means Japanese word of Chinese origin while "wago" (和語) means native Japanese word.*
+    *\\* "kango" (漢語) means Japanese word of Chinese origin while "wago" (和語) means native Japanese word.*
 
     """
 )
