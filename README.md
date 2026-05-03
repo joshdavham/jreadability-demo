@@ -1,6 +1,6 @@
 ---
 title: jreadability
-sdk: docker
+sdk: streamlit
 app_port: 8501
 tags:
 - streamlit
