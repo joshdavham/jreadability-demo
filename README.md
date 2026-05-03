@@ -1,3 +1,13 @@
+---
+title: jreadability
+sdk: docker
+app_port: 8501
+tags:
+- streamlit
+pinned: true
+short_description: jReadability demo
+---
+
 # jreadability-demo
 
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" >
