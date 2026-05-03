@@ -1,5 +1,6 @@
 ---
 title: jreadability
+emoji: 🇯🇵
 sdk: docker
 app_port: 8501
 tags:
